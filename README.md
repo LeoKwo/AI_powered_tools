@@ -13,4 +13,6 @@ With the rise of ChatGPT, there are a lot of AI-powered tools available for your
 | Soundful | AI music generator | https://soundful.com/ |
 | Audio2Face | Nvidia's audio to facial animation tool | https://www.nvidia.com/en-us/omniverse/apps/audio2face/ |
 ### Projects
+| Name | Description | Link |
+| -------- | -------- | -------- |
 | LipGAN | Synthesize realistic lip movements from audio input | https://github.com/Rudrabha/LipGAN |
